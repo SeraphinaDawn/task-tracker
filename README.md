@@ -27,7 +27,8 @@ This project aims to help beginners quickly grasp the basic concepts and common 
     git clone <repository_address>
     ```
 2.  Follow the steps in the project for practice and experimentation.
-3.  If you have any questions, please refer to the Git official documentation or online tutorials.
+3.  For Chinese notes, see [Git.md](Git.md).
+4.  If you have any questions, please refer to the Git official documentation or online tutorials.
 
 ## Contribution
 
