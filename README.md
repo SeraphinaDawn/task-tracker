@@ -1,39 +1,38 @@
-# Task Tracker: Git Command Usage Tutorial
+# Task Tracker：Git 命令用法教程
 
-This is a demo project showcasing my learning journey with Git commands. I'm sharing how I use Git, and I hope it's helpful for you!
+这是一个展示我 Git 命令学习过程的演示项目。我将分享我是如何使用 Git 的，希望对你有所帮助！
 
-For a detailed video tutorial, check out: [Git Commands Tutorial](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+详细视频教程请参考：[Git 命令教程](https://www.youtube.com/watch?v=vA5TTz6BXhY) (这个视频来自我在 YouTube 上学习的一个博主：Traversy Media)
 
-## Git Learning Project
+## Git 学习项目
 
-This project aims to help beginners quickly grasp the basic concepts and common operations of Git, using my hands-on experience as a guide.
+本项目旨在帮助初学者快速掌握 Git 的基本概念和常用操作，并以我的实践经验作为指导。
 
-## Main Content
+## 主要内容
 
-*   **Basic Git Operations:**
-    *   Initializing a local repository
-    *   Tracking files
-    *   Committing changes
-    *   Viewing commit history
-    *   Connecting to a remote repository
-    *   Pushing and pulling changes
-*   **Advanced Operations:**
-    *   Protecting private files
-    *   Different ways to get code from GitHub
-    *   Using SSH keys
-    *   Branching operations (creating, switching, merging, deleting)
+*   **Git 的基本操作**：
+    *   初始化本地仓库
+    *   跟踪文件
+    *   提交更改
+    *   查看提交历史
+    *   连接远程仓库
+    *   上传和拉取更改
+*   **进阶操作**：
+    *   保护私密文件
+    *   从 GitHub 获取代码的不同方式
+    *   使用 SSH 密钥
+    *   分支操作（创建、切换、合并、删除）
 
-## How to Use
+## 如果想参考我的项目请按照下面进行
 
-1.  Clone this repository to your local machine:
+1.  克隆本仓库到本地：
     ```bash
-    git clone <repository_address>
+    git clone <仓库地址>
     ```
-2.  Follow the steps in the project for practice and experimentation, building on what I've learned.
-3.  For Chinese notes, see [Git.md](Git.md).
-4.  If you have any questions, please refer to the Git official documentation or other online tutorials. Feel free to also share any feedback on my approach.
+2.  按照项目中的步骤进行练习和实践，并以我的学习经验为基础。
+3.  中文笔记请参考 [Git.md](Git.md)。
+4.  如果你有任何疑问，请参考 Git 官方文档或其他在线教程。也欢迎分享你对我的方法的任何反馈。
 
-## Contribution
+## 贡献
 
-Everyone is welcome to participate in the improvement and refinement of this project. If you have any suggestions or contributions, please submit a Pull Request.
-
+欢迎大家参与本项目的改进和完善。如有任何建议或贡献，请提交 Pull Request。
