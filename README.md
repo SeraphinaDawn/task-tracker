@@ -1,9 +1,12 @@
-# Task Tracker
-This is a demo project for my Git tutorial  
+# Task Tracker: Git Command Usage Tutorial
 
-# Git Learning Project
+This is a demo project showcasing my learning journey with Git commands. I'm sharing how I use Git, and I hope it's helpful for you!
 
-This project aims to help beginners quickly grasp the basic concepts and common operations of Git.
+For a detailed video tutorial, check out: [Git Commands Tutorial](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+
+## Git Learning Project
+
+This project aims to help beginners quickly grasp the basic concepts and common operations of Git, using my hands-on experience as a guide.
 
 ## Main Content
 
@@ -26,10 +29,11 @@ This project aims to help beginners quickly grasp the basic concepts and common 
     ```bash
     git clone <repository_address>
     ```
-2.  Follow the steps in the project for practice and experimentation.
+2.  Follow the steps in the project for practice and experimentation, building on what I've learned.
 3.  For Chinese notes, see [Git.md](Git.md).
-4.  If you have any questions, please refer to the Git official documentation or online tutorials.
+4.  If you have any questions, please refer to the Git official documentation or other online tutorials. Feel free to also share any feedback on my approach.
 
 ## Contribution
 
 Everyone is welcome to participate in the improvement and refinement of this project. If you have any suggestions or contributions, please submit a Pull Request.
+
