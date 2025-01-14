@@ -33,15 +33,6 @@
 3.  中文笔记请参考 [Git.md](Git.md)。
 4.  英文版项目说明请参考 [EnglishREADME.md](EnglishREADME.md)
 5.  如果你有任何疑问，请参考 Git 官方文档或其他在线教程。也欢迎分享你对我的方法的任何反馈。
-
-<div style="border: 1px solid #ddd; padding: 10px; margin: 15px 0; border-radius: 5px;">
-    <span style="margin-right: 10px;"><a href="#">快速开始</a></span>
-    <span style="margin-right: 10px;"><a href="#">使用方法</a></span>
-    <span style="margin-right: 10px;"><a href="#">立即领取免费KEY</a></span>
-    <span style="margin-right: 10px;"><a href="#">付费极速API</a></span>  
-    <span style="margin-right: 10px;"><a href="#">应用支持</a></span>
-</div>
-
 ## 贡献
 
 欢迎大家参与本项目的改进和完善。如有任何建议或贡献，请提交 Pull Request。
